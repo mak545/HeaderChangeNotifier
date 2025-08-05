@@ -1,6 +1,7 @@
 Name: Header Change Notifier
 Version: 1.0.0
 Author: Mohamed
+Email: mohamed.cybersec@gmail.com
 Category: Traffic Analysis
 Description: |
   Detects and alerts when HTTP response headers change between requests to the same URL.
