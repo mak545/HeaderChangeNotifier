@@ -55,6 +55,12 @@ The extension comes pre-configured to monitor these security-critical headers:
 
 The extension will be available through the official Burp Suite BApp Store once submitted and approved.
 
+## Screenshots
+![Main Interface](screenshots/HeaderChanges.png)
+
+
+![Settings Panel](screenshots/Settings.png)
+
 ## Usage
 
 ### Basic Usage
