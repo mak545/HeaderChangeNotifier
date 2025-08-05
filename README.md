@@ -21,8 +21,8 @@ The extension comes pre-configured to monitor these security-critical headers:
 | Header | Description | Risk Assessment |
 |--------|-------------|-----------------|
 | `Set-Cookie` | Session cookies and security attributes | High |
-| `Content-Security-Policy` | CSP rules and restrictions | Critical |
-| `X-Frame-Options` | Clickjacking protection | Critical |
+| `Content-Security-Policy` | CSP rules and restrictions | High |
+| `X-Frame-Options` | Clickjacking protection | Medium |
 | `X-Content-Type-Options` | MIME sniffing protection | Medium |
 | `Referrer-Policy` | Referrer information control | Medium |
 | `Strict-Transport-Security` | HTTPS enforcement | High |
