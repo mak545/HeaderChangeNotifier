@@ -1,0 +1,16 @@
+Name: Header Change Notifier
+Version: 1.0.0
+Author: Mohamed
+Category: Traffic Analysis
+Description: |
+  Detects and alerts when HTTP response headers change between requests to the same URL.
+  Helps identify security misconfigurations, policy changes (e.g., CSP, CORS), and infrastructure
+  modifications during web application and API security testing.
+Tags:
+  - Headers
+  - Security Testing
+  - Change Detection
+  - Monitoring
+Platform: All
+Burp_Version: 2020.1+
+License: MIT
