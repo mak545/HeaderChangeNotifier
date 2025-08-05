@@ -79,3 +79,7 @@ The extension will be available through the official Burp Suite BApp Store once 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Contact
+Author: Mohamed  
+Email: mohamed.cybersec@gmail.com
+
