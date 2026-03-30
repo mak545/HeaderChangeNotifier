@@ -51,9 +51,9 @@ The extension comes pre-configured to monitor these security-critical headers:
 6. Click `Next` and verify the extension loads without errors
 7. The extension will appear as a new tab called "Header Change Notifier"
 
-### Method 2: BApp Store (Coming Soon)
+### Method 2: BApp Store
 
-The extension will be available through the official Burp Suite BApp Store once submitted and approved.
+The extension is available now through the official Burp Suite BApp Store.
 
 ## Screenshots
 ![Main Interface](screenshots/HeaderChanges.png)
